@@ -19,7 +19,7 @@ AMIには以下の情報がまとまっている
 ・サーバーについての情報の保管場所
 ・AWSアカウントがAMIを使ってサーバーを始めるための許可
 
-AMIの取得にはaws ec2 describe-images コマンドうぃ使用
+AMIの取得にはaws ec2 describe-images コマンドを使用
 
 ## ③について
 aws ec2 run-instances コマンドを使ってEC2を作成
